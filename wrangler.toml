@@ -1,3 +1,4 @@
 name = "rn-auto"
-main = "_workers.js"
+main = "_worker.js"
 compatibility_date = "2024-12-01"
+
